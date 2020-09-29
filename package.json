@@ -1,0 +1,12 @@
+{
+  "name": "@troyexu/yl-styleall",
+  "version": "1.0.0",
+  "description": "yl-styleall",
+  "main": "styleall.css",
+  "style": "styleall.css",
+  "files": [
+    "LICENSE.md",
+    "styleall.css"
+  ],
+  "license": "MIT"
+}
